@@ -1,0 +1,37 @@
+div.top{
+    width:19px;
+    height:0px;
+    border:dotted;
+    margin-top:0px;
+    border-color: red;
+}
+
+div.bottom{
+    width:19px;
+    height:0px;
+    border:dotted;
+    margin-bottom: 0px;
+    border-color: green;
+}
+
+div.right{
+     width:0px;
+     height:12px;
+     border:dotted;
+    margin-right: 0px;
+    border-color: blue;
+}
+
+div.left {
+    width: 0px;
+    height: 12px;
+    border: dotted;
+    margin-left: 18px;
+    border-color: black;
+    margin-top: -21px;
+}
+
+table {
+    width:29px;
+    height:50px;
+}
